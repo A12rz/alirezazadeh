@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Ali Rezazadeh / Personal Website"
 title_separator          : "-"
 name                     : &name "Ali Rezazadeh"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Graduate Master's Student"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://a12rz.github.io/alirezazadeh/" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Ali Rezazadeh"
   pronouns         : He/Him  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "interested in ML and NLP."
   location         : "Iran, Tehran"
   employer         : "Iran University of Science and Technology"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/ali-rezazadeh-83252317b"
+  linkedin         : "ali-rezazadeh-83252317b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
